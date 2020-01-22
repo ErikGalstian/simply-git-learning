@@ -1,3 +1,3 @@
-var student = {
+var worker = {
   name: 'Erik'
 };

@@ -1,3 +1,3 @@
-var student = {
+
   name: 'Erik'
 };
